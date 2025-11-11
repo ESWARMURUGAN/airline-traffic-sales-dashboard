@@ -79,7 +79,7 @@ I designed and formatted a professional, single-page Flight Status Dashboard, pr
 > **Visual: Final Interactive Dashboard**
 > *Insert a screenshot of your completed Power BI dashboard here. This showcases the final deliverable and the analytical outcome.*
 >
-> `![Completed Power BI Dashboard showing flight status KPIs and trends](./screenshots/final_dashboard.png)`
+> `https://github.com/ESWARMURUGAN/airline-traffic-sales-dashboard/blob/9f970c17098be693251a755b9922c8e4e2f11762/US_flight_sales_analysis_powerBi.png`
 
 ---
 
