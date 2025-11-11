@@ -74,41 +74,4 @@ These formulas demonstrate proficiency in core DAX concepts, including context t
 I designed and formatted a professional, single-page Flight Status Dashboard, prioritizing visual hierarchy and user experience.
 
 * **Visualization:** Used **KPI Cards** for key rates, **Line Charts** for monthly trends, **Bar Charts** to compare performance across airlines and airports, and a **Donut Chart** to break down cancellation composition.
-* **User Experience (UX):** I customized **Visual Interactions** to ensure selecting a filter (e.g., clicking a specific airport) correctly **refilters** (rather than highlights) all related visuals, providing a dynamic and intuitive analysis environment for stakeholders.
-
-> **Visual: Final Interactive Dashboard**
-> *Insert a screenshot of your completed Power BI dashboard here. This showcases the final deliverable and the analytical outcome.*
->
-> `https://github.com/ESWARMURUGAN/airline-traffic-sales-dashboard/blob/9f970c17098be693251a755b9922c8e4e2f11762/US_flight_sales_analysis_powerBi.png`
-
----
-
-## Skills Used
-
-This project validates my ability to operate across the entire BI lifecycle:
-
-* **Microsoft Power BI Desktop:** End-to-end usage of all major views (Data, Model, Report).
-* **Advanced Data Transformation:** Proficiency in Power Query M-language concepts, including conditional column creation for categorization.
-* **Data Architecture:** Skill in designing and implementing the **Star Schema** data model to optimize reporting performance.
-* **DAX (Data Analysis Expressions):** Ability to write complex, nested DAX formulas using `CALCULATE`, `COUNTROWS`, and `DIVIDE` to define volume and rate KPIs.
-* **Data Storytelling & Design:** Applying visualization best practices (color consistency, enclosure, and hierarchy) to deliver clear, actionable insights.
-
----
-
-## Results and Recommendations
-
-### Key Insights Generated
-
-The dashboard provided immediate, actionable insights upon completion:
-
-* **Top Traffic Hub:** Atlanta was confirmed as the highest volume airport, requiring focus for operational optimization.
-* **Carrier Reliability:** A specific carrier (Jet Blue in the tutorial data) was identified as having the lowest on-time performance, highlighting a potential area for FAA investigation or carrier improvement planning.
-* **Primary Issue:** Weather was the overwhelmingly dominant cause for flight cancellations (approximately 75%), suggesting strategic investment in de-icing, improved weather forecasting tools, or preemptive scheduling is necessary.
-
-### Suggested Next Steps
-
-To maximize the business value of this Power BI report, the following steps are recommended:
-
-* **Cloud Deployment:** Publish the completed Power BI report to the **Power BI Service** to enable secure access, scheduling of daily data refreshes, and sharing with executive stakeholders.
-* **Advanced Reporting:** Integrate an **"On-Time Performance Predictor"** visual using time series analysis to forecast future reliability.
-* **Drill-Through Capability:** Add a drill-through page allowing analysts to click an airline and view a detailed breakdown of its delays by specific time of day or maintenance records.
+* **User Experience (UX):** I customized **Visual Interactions** to ensure selecting a filter (e.g., clicking a specific airport) correctly **refilters** (rather than highlights)
