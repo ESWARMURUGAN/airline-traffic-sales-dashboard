@@ -71,6 +71,7 @@ These formulas demonstrate proficiency in core DAX concepts, including context t
 
 ### 4. Interactive Dashboard Design
 
+> ![U.S. Flight Data Analysis Dashboard](https://github.com/ESWARMURUGAN/airline-traffic-sales-dashboard/blob/9f970c17098be693251a755b9922c8e4e2f11762/US_flight_sales_analysis_powerBi.png)
 I designed and formatted a professional, single-page Flight Status Dashboard, prioritizing visual hierarchy and user experience.
 
 * **Visualization:** Used **KPI Cards** for key rates, **Line Charts** for monthly trends, **Bar Charts** to compare performance across airlines and airports, and a **Donut Chart** to break down cancellation composition.
