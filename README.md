@@ -15,18 +15,6 @@ This project showcases my end-to-end proficiency in the **Business Intelligence 
 
 ---
 
-## Business Problem
-
-As a Data Analyst, my goal was to provide the FAA with a structured, data-driven understanding of commercial flight performance. The challenge was integrating and analyzing millions of flight records alongside disparate lookup tables (Airlines, Airports, Cancellation Codes) to answer core business questions: **"Where are the delays occurring, and who is responsible?"**
-
-This required not just visualization, but a foundational data model to accurately:
-
-1.  Identify the **airlines with the highest delay rates** versus high volume.
-2.  Analyze the distribution of flight traffic across **major US airports**.
-3.  Deconstruct the **root causes of flight cancellations** (e.g., weather, carrier issues).
-
----
-
 ## Methodology: My Data Analysis Workflow
 
 I utilized a systematic 4-step process within Power BI, ensuring data integrity and analytical rigor at every stage.
